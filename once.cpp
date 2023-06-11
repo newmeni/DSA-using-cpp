@@ -1,3 +1,4 @@
+\\print the unique number , in an array, in which each elements repeats itself except one ele
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
