@@ -1,3 +1,4 @@
+\\sum of the elements of an array
 #include <bits/stdc++.h>
 using namespace std;
 
