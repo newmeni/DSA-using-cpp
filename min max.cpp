@@ -1,3 +1,4 @@
+\\finding minm and naximum of array
 #include <bits/stdc++.h>
 using namespace std;
 int main (){
