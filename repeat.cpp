@@ -1,3 +1,4 @@
+\\print the repeated numbers in an array
 #include<bits/stdc++.h>
 using namespace std;
 int main (){
