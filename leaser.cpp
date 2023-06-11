@@ -1,3 +1,4 @@
+\\printing leadewrs of an array
 #include <bits/stdc++.h>
 using namespace std;
 int main (){
