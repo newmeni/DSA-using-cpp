@@ -1,3 +1,4 @@
+\\an array having 'a' elements,is an odd number, having every element twice except one, print the number which is unique
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
