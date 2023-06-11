@@ -1,3 +1,4 @@
+\\printing address of every int in array
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
