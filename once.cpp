@@ -1,4 +1,4 @@
-\\an array contains numbers from 1 to n-1 and one repeated number X, find x
+//an array contains numbers from 1 to n-1 and one repeated number X, find x
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
