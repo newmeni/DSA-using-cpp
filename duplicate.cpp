@@ -1,3 +1,4 @@
+//an array having a duplicate number,which repeats itself, print that
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
