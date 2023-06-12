@@ -1,4 +1,4 @@
-\\print the unique number , in an array, in which each elements repeats itself except one ele
+\\an array contains numbers from 1 to n-1 and one repeated number X, find x
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
