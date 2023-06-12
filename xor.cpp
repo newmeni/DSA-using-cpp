@@ -1,4 +1,4 @@
-\\Xor of consecutive elements in array
+//Xor of consecutive elements in array
 #include <bits/stdc++.h>
 using namespace std;
 int main (){
