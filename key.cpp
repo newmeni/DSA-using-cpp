@@ -1,4 +1,4 @@
-\\printing key th elememt fo an array
+//printing key th elememt fo an array
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
