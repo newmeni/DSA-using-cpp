@@ -1,3 +1,4 @@
+//print sum and product od digits of a number, and also subtraction of them
 #include<iostream>
 using namespace std;
 int main(){
