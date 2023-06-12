@@ -1,4 +1,4 @@
-\\swap the consecutive elements of an array and print the new array 
+//swap the consecutive elements of an array and print the new array 
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
