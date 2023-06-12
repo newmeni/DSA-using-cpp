@@ -1,4 +1,4 @@
-\\print the sum and product of elements of an array and difference of both
+//print the sum and product of elements of an array and difference of both
 #include<iostream>
 using namespace std;
 int main(){
