@@ -1,3 +1,4 @@
+//reversing numbers in an array
 #include <cmath>
 #include <cstdio>
 #include <vector>
